@@ -2,7 +2,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno.wilio167@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-breno-pereira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno_wp/)
-- 💼 Atualmente trabalho com dados de saúde na Lundin Mining Corporation
+- 💼 Atualmente trabalho com health data na Lundin Mining Corporation
 - 👨‍🎓 Hoje estou estudando Python
 - 🎓 Atualmente estou me formando em engenharia de software
 
