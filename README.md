@@ -11,7 +11,7 @@
 
 ##
 
-### Tecnologias que uso no meu dia
+### Technologies I use in my day
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
 -
@@ -20,6 +20,7 @@
   <img align="center" alt="Excel" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
  -
   <img align="center" alt="Excel" height="40" src="https://www.mindtek.com.br/wp-content/uploads/2022/06/Power_Automate_256x256.png?x16326"/>
+   <img align="center" alt="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"/>
 </div><br/>
 
 ##
