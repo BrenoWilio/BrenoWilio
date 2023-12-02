@@ -17,7 +17,7 @@
  -
 <img align="center" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
  -
-   <img align="center" alt="powerplataform" height="40" src="https://www.canva.com/design/DAF13wpvCJg/7oBRE7z1DZam80SEhatyJA/view?utm_content=DAF13wpvCJg&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+   <img align="center" alt="powerplataform" height="40" src="https://drive.google.com/file/d/14dIEuAYyhG9EppO2ho9s8pJaKHJ58DXv/view?usp=drive_link"/>
  -
    <img align="center" alt="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
  -
