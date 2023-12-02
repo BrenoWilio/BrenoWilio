@@ -25,7 +25,7 @@
  -
    <img align="center" alt="powerapps" height="40" src="https://valto.co.uk/wp-content/uploads/2020/03/PowerAppsLogo.png"/>
  -
-   <img align="center" alt="HTML" height="40" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png"/>
+   <img align="center" alt="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
  -
    <img align="center" alt="CSS" height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"/>
    
