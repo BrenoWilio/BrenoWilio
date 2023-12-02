@@ -17,7 +17,7 @@
  -
 <img align="center" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
  -
-   <img align="center" alt="powerplataform" height="40" src="https://alfapeople.com/br/wp-content/uploads/sites/11/2022/08/microsoft_power_platform_icon_2022.png"/>
+   <img align="center" alt="powerplataform" height="40" src="https://skypoint.co.nz/wp-content/uploads/2022/08/power-platform-decal-shadow.png"/>
  -
    <img align="center" alt="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"/>
  -
