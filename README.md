@@ -23,6 +23,8 @@
  -
   <img align="center" alt="powerautomate" height="40" src="https://www.mindtek.com.br/wp-content/uploads/2022/06/Power_Automate_256x256.png?x16326"/>
  -
+   <img align="center" alt="powerapps" height="40" src="https://www.primesolution.com.br/mt-content/uploads/2022/09/powerapps_63287ab6de9a4.png"/>
+ -
    <img align="center" alt="HTML" height="40" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png"/>
  -
    <img align="center" alt="CSS" height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"/>
